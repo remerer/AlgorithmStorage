@@ -1,5 +1,4 @@
-# Krafton-Jungle-Whiteboard-Algorithm
-크래프톤 정글 화이트보드 알고리즘 모임
+# Algorithm 문제풀이
 
 ## 1. 스터디 방식
 
@@ -21,7 +20,7 @@
 
 ## 2. 선정 문제
 <details>
-  <summary>이전 문제들 접기/펼치기</summary>
+  <summary>이전 문제들 접기/펼치기(1~5주차)</summary>
 
   <div markdown="1">  
 
@@ -70,6 +69,14 @@
 | 2022-11-28 | [십자가 찾기(16924)](https://www.acmicpc.net/problem/16924)  | 이현홍 |
 | 2022-11-29 |      [작업(2056)](https://www.acmicpc.net/problem/2056)      | 이선우 |
 | 2022-11-30 | [직사각형 탈출(16973)](https://www.acmicpc.net/problem/16973) | 장지영 |
+</div>
+</summary>
+</details>
+
+<details>
+  <summary>이전 문제들 접기/펼치기(6~10주차)</summary>
+
+  <div markdown="1">  
 
 ### 6주차(2022-12-01 ~ 2022-12-07)
 
@@ -120,7 +127,16 @@
 | 2023-01-02 |   [회전 초밥(2531)](https://www.acmicpc.net/problem/2531)    |     [합이 0(3151)](https://www.acmicpc.net/problem/3151)     | 이현홍 |
 | 2023-01-03 |    [최단경로(1753)](https://www.acmicpc.net/problem/1753)    |    [알고스팟(1261)](https://www.acmicpc.net/problem/1261)    | 이선우 |
 | 2023-01-04 | [외계인의 기타 연주(2841)](https://www.acmicpc.net/problem/2841) | [옥상 정원 꾸미기(6198)](https://www.acmicpc.net/problem/6198) | 장지영 |
+</div>
+</summary>
+</details>
 
+
+<details>
+  <summary>이전 문제들 접기/펼치기(10~15주차)</summary>
+
+  <div markdown="1">  
+  
 ### 11주차(2023-01-05 ~ 2023-01-11)
 
 |    날짜    |                          문제(기본)                          |                        문제(응용)                         | 호스트 |
@@ -140,18 +156,6 @@
 | 2023-01-17 |  [나무 탈출(15900)](https://www.acmicpc.net/problem/15900)   | [감시 피하기 (18428)](https://www.acmicpc.net/problem/18428) | 이현홍 |
 | 2023-01-18 |   [플로이드(11404)](https://www.acmicpc.net/problem/11404)   | [서강그라운드(14938)](https://www.acmicpc.net/problem/14938) | 이선우 |
 
-</div>
-</summary>
-</details>
-
-* 리뷰어 매칭 스프레드시트
-  > https://docs.google.com/spreadsheets/d/1Zmyn2XnzYyIVKNFJ-FW9e9g3bcabUx9llAMQYMg8L1s/edit#gid=0
-
-* 날짜 아래에 있는 리뷰어가 B열에 있는 사람의 코드를 리뷰
-
-  (해당 리뷰일 노란색 배경 하이라이트)
-
-  > 예) 2023-02-03 박정은이 **김세희**의 코드를 리뷰
 
 ### 14주차(2023-02-02 ~ 2023-02-08)
 
@@ -166,6 +170,11 @@
 | :--------: | :----------------------------------------------------------: |
 | 2023-02-10 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
 | 2023-02-14 | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |
+
+</div>
+</summary>
+</details>
+
 
 ### 16주차(2023-02-16 ~ 2023-02-22)
 
