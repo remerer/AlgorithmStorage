@@ -5,7 +5,8 @@ input = sys.stdin.readline
 #n^2해도됨
 #N명이 원으로 앉음
 #k번째 사람 마다 제거
-#linked list,
+#deque로 풀어도 시간은 비슷할듯?
+#값이 커지면 다른방법 생각해야함
 
 N, K = map(int, input().strip().split())
 
