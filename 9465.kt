@@ -1,4 +1,5 @@
-fun main(args: Array<String>) = println(
+fun main(args: Array<String>) =
+println(
 """|\_/|
 |q p|   /}
 ( 0 )${"\"\"\""}\
