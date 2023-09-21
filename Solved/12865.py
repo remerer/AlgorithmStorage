@@ -26,7 +26,7 @@ while(q):
         if tmparray[i][1]+w > valdp[tmparray[i][0]+w]:
             tmpw, tmpv = tmparray.pop(i)
             q.append([tmpw+w, deepcopy(tmparray)])
-            tmparray.insert(i,[tmpw,tmpv])
+            tmparray.insert(i-1,[tmpw,tmpv])
 
 print(popdp)
 print(valdp)
